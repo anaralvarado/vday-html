@@ -1,0 +1,77 @@
+/*cursor*/
+
+/* unvisited link */
+a:link {
+    color: #FF0000;
+    cursor: url(../images/heart-cursor-final.png), crosshair; 
+}
+
+.border1{
+	
+	width: 100%;
+	height: 760px;
+	background: #D32151;
+	position: absolute;
+	
+}
+
+.border2{
+	width: 93%;
+	height: 90%;
+	background: #E84571;
+	position: absolute;
+	margin: auto;
+	top: 0; bottom: 0; left: 0; right:0;	
+}
+
+.mainframe{
+	width: 93%;
+	height: 90%;
+	background: #EF6489;
+	position: absolute;
+	margin: auto;
+	top: 0; bottom: 0; left: 0; right:0;
+}
+
+.h1{
+	font-family: helvetica, arial, sans-serif;
+	font-style: normal;
+	font-size: 24px;
+	font-weight: bold;
+	color: #ffffff;
+	margin: 5px;
+}
+
+.imgHearts1{
+	background-image: url(../images/vday.png);
+	height: 616px;
+	width: auto;
+	background-size: 616px;
+	position: absolute;
+	top: 0; bottom: 0; left: 0; right:0;
+}
+
+.content{
+	width: 100%;
+	height: 34%;
+	background: rgba(255,255,255,0.4);
+	position: absolute;
+	top: 140px; bottom: 0; left: 0; right:0;
+	margin: 0 0 0 0; 
+}
+
+.zelda{
+	position: absolute;
+	top: 5px; bottom: 0; left: 0; right:0;
+	
+}
+	
+.footer{
+	font-family: helvetica, arial, sans-serif;
+	font-style: normal;
+	font-size: 14px;
+	font-weight: normal;
+	color: white;
+	position: fixed;
+	top: 730px; bottom: 0; left: 0; right: 0;
+}
